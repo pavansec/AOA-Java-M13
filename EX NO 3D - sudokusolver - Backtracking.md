@@ -124,7 +124,7 @@ public class SudokuSolver {
 
 ## Result:
 The program successfully implemented and the expected output is verified.
-<img width="357" height="322" alt="image" src="https://github.com/user-attachments/assets/334b8c39-d547-4743-aca0-de92e38bdd1c" />
+
 
 
 
